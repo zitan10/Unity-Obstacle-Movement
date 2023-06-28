@@ -1,8 +1,8 @@
 # Unity-Obstacle-Movement
 Unity movement system to traverse obstacles
 
-![](images/preview1.gif)
+![](images/movement1.gif)
 
-![](images/preview2.gif)
+![](images/movement3.gif)
 
-![](images/preview3.gif)
+![](images/movement2.gif)
